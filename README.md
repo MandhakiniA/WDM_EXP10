@@ -26,5 +26,11 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+![image](https://github.com/user-attachments/assets/e1d4756d-9f2b-4936-b371-34e3018d734b)
+![image](https://github.com/user-attachments/assets/82d02b2b-4b59-4750-b3eb-05d8361ecb6f)
+![image](https://github.com/user-attachments/assets/88287f4b-2799-4083-a5bb-9f098f8ebbd5)
+
+
 
 ### Result:
+Thus sentimental analysis for twitter data using Rapidminer is done successfully.
